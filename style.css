@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+.note{
+    font-size: 18px;
+    color: black;
+    font-family: 'Hina Mincho', serif;
+}
+#song_name{
+    font-size: 20px;
+}
+#canvas{
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 20px;
+    width:500px;
+    height: 400px;
+    box-shadow: 5px 5px 5px grey;
+}
